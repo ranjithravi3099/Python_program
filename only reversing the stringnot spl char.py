@@ -12,3 +12,4 @@ for i in a:
        c = c + b.pop(0)
     else:
         c = c+i
+print(c)
